@@ -1,19 +1,29 @@
 
 print('Hello World')
 
+#змінні всіх типів
 a = int(2)
 b = len('Hello World')
 c = float(2.5)
 d = ["a", "b", "c", "d"]
-print(d)
 e = dict(a=1, b=2, c=3)
 f = str('Hello World')
 g = bool(True)
 h = (1, 2, 3)
-print(h)
 i = {1, 2, 3, 4}
-print(i)
 
+#вивід змінних та їх типів
+print(i, type(i))
+print(h, type(h))
+print(g, type(g))
+print(f, type(f))
+print(e, type(e))
+print(c, type(c))
+print(d, type(d))
+print(b, type(b))
+print(a, type(a))
+
+#арифметика
 a = 10
 b = 2
 print(a + b)
