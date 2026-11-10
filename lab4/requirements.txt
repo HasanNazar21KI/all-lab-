@@ -1,0 +1,10 @@
+colorama==0.4.6
+emoji==2.16.0
+Faker==40.43.0
+numpy==2.4.4
+pandas==3.0.2
+pyfiglet==1.0.4
+python-dateutil==2.9.0.post0
+requests==2.33.1
+rich==15.0.0
+tqdm==4.70.1
